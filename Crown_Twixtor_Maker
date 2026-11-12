@@ -31,7 +31,7 @@
     {
       "cell_type": "code",
       "source": [
-        "# @title 👑 Crown-Twixtor-Maker V1\n",
+        "# @title 👑 Crown-Twixtor-Maker V1.2\n",
         "import os as _0x1a, sys as _0x2b, base64 as _0x3c\n",
         "from IPython.display import display as _0x4d, HTML as _0x5e, Javascript as _0x6f\n",
         "\n",
